@@ -5,7 +5,7 @@ DropzoneJS with ASP.net MVC 5
 
 This Article shows how to use DropzoneJS with your ASP.net MVC 5 Application.
 
-The code accompanies a [Article of "DropzoneJS with ASP.net MVC 5"](http://sampathloku.blogspot.com/2014/02/dropzonejs-with-aspnet-mvc-5.html).
+The code accompanies an [Article of "DropzoneJS with ASP.net MVC 5"](http://sampathloku.blogspot.com/2014/02/dropzonejs-with-aspnet-mvc-5.html).
 
 What is DropzoneJS ?
 
